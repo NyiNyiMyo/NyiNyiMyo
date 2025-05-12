@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr/>
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
+
+# 🛠️ Libraries:
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<p></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&count=8)
