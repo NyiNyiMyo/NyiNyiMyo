@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello Everyone 👋
 
 <!--
 **Nyi-Nyi-Myo/Nyi-Nyi-Myo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<p></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&count=8)
