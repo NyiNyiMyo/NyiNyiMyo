@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<p></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&count=8)
+![](https://github-readme-stats.vercel.app/api?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<p></p>
