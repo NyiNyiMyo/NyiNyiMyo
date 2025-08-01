@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="#">
-    <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=True&count_private=True&count=8">
+    <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyiNyiMyo&theme=dark&hide_border=false&include_all_commits=True&count_private=True&count=8">
   </a>
   <a href="#">
-    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nyi-Nyi-Myo&theme=dark&hide_border=false&include_all_commits=False&count_private=True">
+    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NyiNyiMyo&theme=dark&hide_border=false&include_all_commits=False&count_private=True">
   </a>
 </div>
