@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/C-Programming%20Language-brightgreen?style=for-the-badge)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Embedded C](https://img.shields.io/badge/Embedded-C-blue?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 
 # 🛠️ Libraries:
+<!--
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -36,6 +38,27 @@ Here are some ideas to get you started:
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)
+![Onnxruntime](https://img.shields.io/badge/onnxruntime-005CED?logo=onnx)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+-->
+
+<div align="center">
+ <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
+ <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch" />
+ <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
+ <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
+ <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras" />
+ <img alt="Onnxruntime" src="https://img.shields.io/badge/onnxruntime-005CED?logo=onnx" />
+</br>
+ <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+ <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
+ <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />
+ <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40" />
+ <img alt="Scikitlearn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+ <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
+ <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+</div>
 
 # 📊 GitHub Stats:
 
