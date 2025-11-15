@@ -80,12 +80,12 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 <div align="center">
+   <a href="#">
+    <!-- <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NyiNyiMyo&theme=dark&hide_border=false&include_all_commits=False&count_private=True"> -->
+    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NyiNyiMyo&show_icons=true&hide_rank=false&theme=dracula">
+  </a>
   <a href="#">
     <!-- <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyiNyiMyo&theme=dark&hide_border=false&include_all_commits=True&count_private=True&count=8"> -->
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-liart.vercel.app?user=NyiNyiMyo&theme=blueberry&card_height=180" alt="GitHub Streak" /></a>
-  </a>
-  <a href="#">
-    <!-- <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NyiNyiMyo&theme=dark&hide_border=false&include_all_commits=False&count_private=True"> -->
-    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NyiNyiMyo&show_icons=true&hide_rank=false&theme=dracula">
   </a>
 </div>
