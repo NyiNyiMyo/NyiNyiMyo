@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
 </div>
 
-# 🛠️ Libraries:
+## 🛠️ Libraries:
 <!--
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
    <a href="#">
@@ -89,3 +89,10 @@ Here are some ideas to get you started:
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-liart.vercel.app?user=NyiNyiMyo&theme=blueberry&card_height=180" alt="GitHub Streak" /></a>
   </a>
 </div>
+
+### 🏅 Data Science Career Certificates & Professional Certificates
+- DeepLearning.AI [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/verify/Q94K4VXEPXKQ)
+- DeepLearning.AI [TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/MHZRIZWMDRLF)
+- IBM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Deep Learning with PyTorch, Keras and Tensorflow](https://www.coursera.org/account/accomplishments/professional-cert/KQ29U5SGKKTI)
+- DataCamp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python Data Associate Certification](https://www.datacamp.com/certificate/PDA0015262595236)
+- DataCamp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Deep Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/4987780456e1dfbd6b9d3ad2328793e1dbf66cc3)
