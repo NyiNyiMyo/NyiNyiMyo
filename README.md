@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 🏅 Data Science Career Certificates & Professional Certificates
-- DeepLearning.AI [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/verify/Q94K4VXEPXKQ)
+- DeepLearning.AI [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/verify/KV3MHGV2F5UP)
 - DeepLearning.AI [TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/MHZRIZWMDRLF)
 - IBM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Deep Learning with PyTorch, Keras and Tensorflow](https://www.coursera.org/account/accomplishments/professional-cert/KQ29U5SGKKTI)
 - DataCamp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python Data Associate Certification](https://www.datacamp.com/certificate/PDA0015262595236)
