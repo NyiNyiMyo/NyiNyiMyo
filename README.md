@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 ![Onnxruntime](https://img.shields.io/badge/onnxruntime-005CED?logo=onnx)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Built with PaddlePaddle](https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg)](http://paddlepaddle.org)
 -->
 
 <div align="center">
@@ -75,6 +76,8 @@ Here are some ideas to get you started:
  <img alt="Scikitlearn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
  <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+</br>
+ <img alt="Built with PaddlePaddle" src="https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg?" />
 </div>
 
 ## 📊 GitHub Stats:
