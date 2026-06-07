@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Built with PaddlePaddle](https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg)](http://paddlepaddle.org)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
+![Onnx}(https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 -->
 
 <div align="center">
@@ -78,6 +80,8 @@ Here are some ideas to get you started:
  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </br>
  <img alt="Built with PaddlePaddle" src="https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg?" />
+ <img alt="PyTorch Lightning" src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" />
+ <img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats:
