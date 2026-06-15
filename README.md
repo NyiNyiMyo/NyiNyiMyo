@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=blue)](#)
+[![Wandb](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)
 [![Built with PaddlePaddle](https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg)](http://paddlepaddle.org)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
 ![Onnx}(https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white)
@@ -81,6 +82,7 @@ Here are some ideas to get you started:
  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </br>
  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=blue" />
+ <img alt="Wandb" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white" />
  <img alt="Built with PaddlePaddle" src="https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg?" />
  <img alt="PyTorch Lightning" src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" />
  <img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
