@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <div align="center">
    <a href="#">
-    <img height="180rem" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=NyiNyiMyo&show_icons=true&theme=monokai">
+    <img height="180rem" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=NyiNyiMyo&show_icons=true&include_all_commits=true&theme=radical">
     <!-- <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=NyiNyiMyo&show_icons=true&hide_rank=false&theme=dracula"> -->
   </a>
   <a href="#">
