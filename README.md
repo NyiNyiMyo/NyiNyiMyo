@@ -66,33 +66,38 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch" />
  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras" />
- <img alt="Onnxruntime" src="https://img.shields.io/badge/onnxruntime-005CED?logo=onnx" />
+ <img alt="Built with PaddlePaddle" src="https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg?" />
 </br>
+ <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />
  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40" />
  <img alt="Scikitlearn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
- <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
- <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </br>
  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=blue" />
  <img alt="Wandb" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white" />
- <img alt="Built with PaddlePaddle" src="https://paddlepaddle-badge.vercel.app/v1/built-with-paddlepaddle/tiny.svg?" />
- <img alt="PyTorch Lightning" src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" />
+ <img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff"/>
  <img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
+ <img alt="PyTorch Lightning" src="https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white" />
+</br>
+ <img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/-Gradio-3E8EFB?style=flat&logo=gradio&logoColor=orange"/>
+ <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+ <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
+ <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </div>
 
 ## 📊 GitHub Stats:
 
 <div align="center">
    <a href="#">
-    <img height="180rem" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=NyiNyiMyo&show_icons=true&include_all_commits=true&theme=radical">
+    <img height="180rem" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=NyiNyiMyo&show_icons=true&include_all_commits=true&theme=dracula">
     <!-- <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats-mu-topaz-29.vercel.app/api?username=NyiNyiMyo&show_icons=true&hide_rank=false&theme=dracula"> -->
   </a>
   <a href="#">
@@ -108,3 +113,4 @@ Here are some ideas to get you started:
 - IBM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Deep Learning with PyTorch, Keras and Tensorflow](https://www.coursera.org/account/accomplishments/professional-cert/KQ29U5SGKKTI)
 - DataCamp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python Data Associate Certification](https://www.datacamp.com/certificate/PDA0015262595236)
 - DataCamp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Deep Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/4987780456e1dfbd6b9d3ad2328793e1dbf66cc3)
+- DataCamp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python Data Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/15c286e4f175ac9e63b63b0c122e717a8d6f2188)
